@@ -1,0 +1,10 @@
+mitt käk ditt käk ja käk app på dator för att ja typ inte ta upp mobil
+fast de är nog värt att ta upp mobil för detta lär ju krångla som fan eftersom de är python
+
+aja kör setupPIP.bat för å ladda ner alla bibloteks typ som att låna böcker fast man snor dem och det är inte
+böcker utan det är filer.
+sen är de bra å ha python nedladdat ja kör 3.9 för detta men borde kanske funka på många andra
+a nu kör du run.bat eller ba main.py skillnad är typ att run.bat körs i kommandotolken vilket gör att den 
+pausars när den är klar de är bra för å se vad felen blir men kör vilken som ja skiter i
+
+wow mat i datorn ditt å mitt käk, ja allas käk
