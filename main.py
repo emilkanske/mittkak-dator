@@ -29,7 +29,7 @@ def openPic(link): # typ öppna bild å gö om länk för å ta bort ' '
 
 
 loginManager = login() # ja ny loginmanager inte bra kod fortfarande
-system("title mitt käk på dator fast inte gjort av dem som gjorde mitt käk för dom inte ville göra någon dator verision och jag gillar inte  å jobba med ui så det blev så här   koden är skit men jag årkar inte bry mig")
+system("title https://github.com/emilkanske - mitt käk på dator fast inte gjort av dem som gjorde mitt käk för dom inte ville göra någon dator verision och jag gillar inte  å jobba med ui så det blev så här   koden är skit men jag årkar inte bry mig")
 reqMan = reqAPI() # ja sån här sak som gör request
 
 if (reqMan.login(loginManager.username, loginManager.password) != 200): # ba kolla ifall man får nå annat än 200
@@ -44,7 +44,7 @@ def numToDay(n):
     return daysArray[n]
 
 def showMat(): # typ ba för å visa maten
-    print("\n-> Mitt käk fast ja typ dator")
+    print("\n-> Mitt käk fast ja typ dator | https://github.com/emilkanske")
     nicePrint("Logged in as " + loginManager.getUsername() + "\n")
     c = 1
     for day in data["current"]:
